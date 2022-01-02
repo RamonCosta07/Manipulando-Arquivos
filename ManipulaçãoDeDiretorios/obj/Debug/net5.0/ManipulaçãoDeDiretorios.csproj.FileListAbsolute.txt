@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ManipulaçãoDeDiretorios.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ManipulaçãoDeDiretorios.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ManipulaçãoDeDiretorios.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ManipulaçãoDeDiretorios.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ManipulaçãoDeDiretorios.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ref\ManipulaçãoDeDiretorios.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\bin\Debug\net5.0\ManipulaçãoDeDiretorios.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ref\ManipulaçãoDeDiretorios.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ManipulaçãoDeDiretorios\ManipulaçãoDeDiretorios\obj\Debug\net5.0\ManipulaçãoDeDiretorios.genruntimeconfig.cache
